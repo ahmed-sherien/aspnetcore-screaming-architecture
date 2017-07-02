@@ -1,0 +1,8 @@
+E:\Trials\aspnetcore-screaming-architecture\bin\Debug\netcoreapp1.1\aspnetcore-screaming-architecture.deps.json
+E:\Trials\aspnetcore-screaming-architecture\bin\Debug\netcoreapp1.1\aspnetcore-screaming-architecture.runtimeconfig.json
+E:\Trials\aspnetcore-screaming-architecture\bin\Debug\netcoreapp1.1\aspnetcore-screaming-architecture.runtimeconfig.dev.json
+E:\Trials\aspnetcore-screaming-architecture\bin\Debug\netcoreapp1.1\aspnetcore-screaming-architecture.dll
+E:\Trials\aspnetcore-screaming-architecture\bin\Debug\netcoreapp1.1\aspnetcore-screaming-architecture.pdb
+E:\Trials\aspnetcore-screaming-architecture\obj\Debug\netcoreapp1.1\aspnetcore-screaming-architecture.AssemblyInfo.cs
+E:\Trials\aspnetcore-screaming-architecture\obj\Debug\netcoreapp1.1\aspnetcore-screaming-architecture.dll
+E:\Trials\aspnetcore-screaming-architecture\obj\Debug\netcoreapp1.1\aspnetcore-screaming-architecture.pdb

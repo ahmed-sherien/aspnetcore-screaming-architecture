@@ -1,0 +1,32 @@
+@model IEnumerable<aspnetcore_screaming_architecture.Products.Models.Product>
+
+@{
+    ViewBag.Title = "Products";
+}
+
+<h2>Products</h2>
+<table class="table">
+    <tr>
+        <th>
+            <label>Name</label>
+        </th>
+        <th>
+            <label>Price</label>
+        </th>
+        <th></th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                <p>@item.Name</p>
+            </td>
+            <td>
+                <p>@item.Price</p>
+            </td>
+            <td>
+                <a asp-action="Details" asp-route-id="@item.Id">Details</a>
+            </td>
+        </tr>
+    }
+</table>

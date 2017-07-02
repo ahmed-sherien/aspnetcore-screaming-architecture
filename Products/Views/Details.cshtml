@@ -1,0 +1,32 @@
+@model aspnetcore_screaming_architecture.Products.Models.Product
+
+@{
+    ViewBag.Title = "Product Details";
+}
+
+<h2>Product Details</h2>
+<div>
+    <h4>Product</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            <label asp-for="Name"></label>
+        </dt>
+
+        <dd>
+            <p>@Model.Name</p>
+        </dd>
+
+        
+        <dt>
+            <label asp-for="Price"></label>
+        </dt>
+
+        <dd>
+            <p>@Model.Price</p>
+        </dd>
+    </dl>
+</div>
+<p>
+    <a asp-action="Index">Back to List</a>
+</p>
